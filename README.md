@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F5B642&lines=Hi+there+👋)](https://git.io/typing-svg) 
 ### My name is Polina 
 #### 💡 Embracing Functionality with Creativity 
 ![I am GitHub Readme Generator's creator](https://ltdfoto.ru/images/2024/05/05/SNIMOK-EKRANA-2024-05-05-V-22.22.33.png)
