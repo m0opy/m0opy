@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F5B642&lines=Hi+there+👋)](https://git.io/typing-svg) 
 ### My name is Polina 
 #### 💡 Embracing Functionality with Creativity 
-![Cat](https://ltdfoto.ru/images/2024/05/05/SNIMOK-EKRANA-2024-05-05-V-22.22.33.png)
+![Uploading 2919-cat-pfpsgg.gif…]()
 
 #### About Me:
 💻 I am eager to contribute to creating engaging and dynamic user interfaces. With foundational knowledge in web development, I am enthusiastic about honing my skills and dedicated to enhancing user experience and accessibility on the web. Currently, I am a sophomore at the Moscow Aviation Institute, which adds a solid academic foundation to my practical skills.
